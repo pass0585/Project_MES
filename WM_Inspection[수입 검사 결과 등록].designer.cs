@@ -167,7 +167,7 @@
             this.grid1.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.grid1.Location = new System.Drawing.Point(6, 6);
             this.grid1.Name = "grid1";
-            this.grid1.Size = new System.Drawing.Size(822, 727);
+            this.grid1.Size = new System.Drawing.Size(954, 727);
             this.grid1.TabIndex = 6;
             this.grid1.TabStop = false;
             this.grid1.Text = "grid1";
@@ -180,7 +180,7 @@
             // ultraSplitter1
             // 
             this.ultraSplitter1.BackColor = System.Drawing.Color.White;
-            this.ultraSplitter1.Location = new System.Drawing.Point(828, 6);
+            this.ultraSplitter1.Location = new System.Drawing.Point(960, 6);
             this.ultraSplitter1.Name = "ultraSplitter1";
             this.ultraSplitter1.RestoreExtent = 291;
             this.ultraSplitter1.Size = new System.Drawing.Size(10, 727);
@@ -262,9 +262,9 @@
             this.grid2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.grid2.EnterNextRowEnable = true;
             this.grid2.Font = new System.Drawing.Font("맑은 고딕", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.grid2.Location = new System.Drawing.Point(838, 6);
+            this.grid2.Location = new System.Drawing.Point(970, 6);
             this.grid2.Name = "grid2";
-            this.grid2.Size = new System.Drawing.Size(448, 727);
+            this.grid2.Size = new System.Drawing.Size(316, 727);
             this.grid2.TabIndex = 8;
             this.grid2.TabStop = false;
             this.grid2.Text = "grid2";
